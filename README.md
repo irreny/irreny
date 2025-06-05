@@ -1,4 +1,4 @@
-Привет 👋 я [Ира](https://github.com/irreny) ![](https://github.com/irreny) 
+Привет 👋 я [Ира](https://irreny.github.io) ![](https://irreny.github.io) 
 ======================
 
 QA Engineer | Python
@@ -6,7 +6,6 @@ QA Engineer | Python
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Testing+life)](https://git.io/typing-svg)
 
-Сайт визитка, который размещен на бесплатном хостинге от github: Ссылка на сайт https://github.com/irreny
 
 <br>
 
