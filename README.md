@@ -4,6 +4,8 @@
 QA Engineer | Python
 ---------------
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Testing+life)](https://git.io/typing-svg)
+
 ### Навыки и инструменты:
 
 <p align="left">
