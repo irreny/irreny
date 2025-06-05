@@ -11,9 +11,9 @@ QA Engineer | Python
 </p>
 
 <br>
-
-## 🎒 Образование
+## Образование
 [<img src="/pythonRUS-1.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/irreny/irreny/main/pythonRUS-1.png)
 [<img src="/pythonRUS-2.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/irreny/irreny/main/pythonRUS-2.png)
-
+[<img src="/pythonEN-1.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/irreny/irreny/main/pythonEN-1.png)
+[<img src="/pythonEN-2.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/irreny/irreny/main/pythonEN-2.png)
 <br>
