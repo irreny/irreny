@@ -1,4 +1,4 @@
-Привет 👋 я Ира
+Привет 👋 я [Ира](https://github.com/irreny) ![](https://github.com/irreny) 
 ======================
 
 QA Engineer | Python
@@ -6,11 +6,7 @@ QA Engineer | Python
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Testing+life)](https://git.io/typing-svg)
 
-### Навыки и инструменты:
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-</p>
+Сайт визитка, который размещен на бесплатном хостинге от github: Ссылка на сайт https://github.com/irreny
 
 <br>
 
@@ -22,3 +18,5 @@ QA Engineer | Python
 [<img src="/stepik.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/irreny/irreny/main/stepik.png)
 
 <br>
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
