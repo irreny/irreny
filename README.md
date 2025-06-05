@@ -17,5 +17,6 @@ QA Engineer | Python
 [<img src="/pythonRUS-2.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/irreny/irreny/main/pythonRUS-2.png)
 [<img src="/pythonEN-1.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/irreny/irreny/main/pythonEN-1.png)
 [<img src="/pythonEN-2.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/irreny/irreny/main/pythonEN-2.png)
+[<img src="/stepik.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/irreny/irreny/main/stepik.png)
 
 <br>
