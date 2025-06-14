@@ -6,7 +6,7 @@ QA Engineer | Python
 
 Мыслю от последствий к причинам. Люблю наводить порядок в сложных системах.
 
-### Мои навыки и технологии:
+### Мои навыки и стек:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
