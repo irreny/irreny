@@ -1,9 +1,7 @@
 Привет 👋 я [Ира](https://irreny.github.io) ![](https://irreny.github.io) 
 ======================
-
 QA Engineer | Python
 ---------------
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Testing+life)](https://git.io/typing-svg)
 
 <br>
