@@ -4,7 +4,7 @@ QA Engineer | Python
 ---------------
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Testing+life)](https://git.io/typing-svg)
 
-Мыслю от последствий к причинам. Люблю наводить порядок в сложных системах.
+Анализирую с последствий. Стремлюсь структурировать и оптимизировать сложные системы.
 
 ### Мои навыки и стек:
 
