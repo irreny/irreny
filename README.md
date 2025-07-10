@@ -45,21 +45,16 @@
 ---
 ## 🌱 Практика и стажировка
 [<img src="/irina_babkina-snuppy_veb.png" width="280px" hspace="10px" alt="Практика">](https://raw.githubusercontent.com/irreny/irreny/main/irina_babkina-snuppy_veb.png)
-[<img src="/irina_babkina-snuppy_veb-en.png" width="280px" hspace="10px" alt="Практика">](https://raw.githubusercontent.com/irreny/irreny/main/irina_babkina-snuppy_veb-en.png)
 [<img src="/stepik.png" width="280px" hspace="10px" alt="Stepik">](https://raw.githubusercontent.com/irreny/irreny/main/stepik.png)
 
 ## 🧙🏻‍♂️ Образование
 [<img src="/qa_engineer_ru.png" width="280px" hspace="10px" alt="QAStudio">](https://raw.githubusercontent.com/irreny/irreny/main/qa_engineer_ru.png)
-[<img src="/qa_engineer_en.png" width="280px" hspace="10px" alt="QAStudio»">](https://raw.githubusercontent.com/irreny/irreny/main/qa_engineer_en.png)
 
 [<img src="/pythonRUS-1.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/irreny/irreny/main/pythonRUS-1.png)
 [<img src="/pythonRUS-2.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/irreny/irreny/main/pythonRUS-2.png)
 
-[<img src="/pythonEN-1.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/irreny/irreny/main/pythonEN-1.png)
-[<img src="/pythonEN-2.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/irreny/irreny/main/pythonEN-2.png)
-
 <br>
 
-## ✆✉ Контакт
+## ✉ Контакт
 [![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:birreny@yandex.ru)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/birreny)
