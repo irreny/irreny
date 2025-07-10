@@ -42,7 +42,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/metabase.svg" title="Metabase" alt="Metabase" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/512px-DBeaver_logo.svg.png" title="DBeaver" alt="DBeaver" width="40" height="40"/>
 
-═══════════════════════════════════════════════════════════
+---
 ## 🌱 Практика и стажировка
 [<img src="/irina_babkina-snuppy_veb.png" width="280px" hspace="10px" alt="Практика">](https://raw.githubusercontent.com/irreny/irreny/main/irina_babkina-snuppy_veb.png)
 [<img src="/irina_babkina-snuppy_veb-en.png" width="280px" hspace="10px" alt="Практика">](https://raw.githubusercontent.com/irreny/irreny/main/irina_babkina-snuppy_veb-en.png)
