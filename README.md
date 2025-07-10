@@ -23,7 +23,7 @@
   <img src="https://avatars.githubusercontent.com/u/28545596?s=200&v=4" title="Jaeger" alt="Jaeger" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bash-Dark.svg" title="Bash" alt="Bash" width="40" height="40"/>
 
-**Работа с базами данных**┈➤
+**Базы данных**┈➤
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PostgreSQL-Dark.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" title="Mongo DB" alt="Mongo DB" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/metabase.svg" title="Metabase" alt="Metabase" width="40" height="40"/>
