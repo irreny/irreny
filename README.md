@@ -49,9 +49,7 @@
 
 ## 🧙🏻‍♂️ Образование
 [<img src="/qa_engineer_ru.png" width="280px" hspace="10px" alt="QAStudio">](https://raw.githubusercontent.com/irreny/irreny/main/qa_engineer_ru.png)
-
-[<img src="/pythonRUS-1.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/irreny/irreny/main/pythonRUS-1.png)
-[<img src="/pythonRUS-2.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/irreny/irreny/main/pythonRUS-2.png)
+[<img src="/pythonRU.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/irreny/irreny/main/pythonRU.png)
 
 <br>
 
