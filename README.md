@@ -33,7 +33,7 @@
 
 ---
 ### :fire: Моя статистика
-<img src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=irreny&theme=buefy&hide_border=true&hide_current_streak=true"> [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=irreny&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=irreny&theme=buefy&hide_border=true&hide_current_streak=true"> [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=irreny&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌱 Практика и стажировка
 [<img src="/irina_babkina-snuppy_veb.png" width="280px" hspace="10px" alt="Практика">](https://raw.githubusercontent.com/irreny/irreny/main/irina_babkina-snuppy_veb.png)
