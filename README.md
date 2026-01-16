@@ -1,4 +1,4 @@
-Привет ✨ я [Ира](https://irreny.github.io) ![](https://irreny.github.io) [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=QA+Engineer+|+Python)](https://git.io/typing-svg)
+Привет ✨ я [Ира](https://irreny.github.io) ![](https://irreny.github.io) [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=QA+Engineer)](https://git.io/typing-svg)
 ======================
 
 **Обо мне**
