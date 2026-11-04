@@ -1,8 +1,10 @@
-Hello! 🧩 I'm Ira
-======================
+<div align="center">
 
-QA Engineer passionate about software quality, continuous learning, exploring new technologies, and developing effective testing processes and documentation
+## Hello! 🧩 I'm Ira, a QA Engineer
 
+Software Quality & Testing
+
+</div>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40"/> 
@@ -25,14 +27,35 @@ QA Engineer passionate about software quality, continuous learning, exploring ne
 </div>
 
 ---
-### :fire: Statistics 
-<img src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=irreny&theme=buefy&hide_border=true&hide_current_streak=true">
 
-## 🌱 Практика и стажировка
-[<img src="/irina_babkina-snuppy_veb.png" width="280px" hspace="10px" alt="Практика">](https://raw.githubusercontent.com/irreny/irreny/main/irina_babkina-snuppy_veb.png)
-[<img src="/stepik.png" width="280px" hspace="10px" alt="Stepik">](https://raw.githubusercontent.com/irreny/irreny/main/stepik.png)
+GitHub Activity
 
-## 🧙🏻‍♂️ Образование
-[<img src="/qa_engineer_ru.png" width="280px" hspace="10px" alt="QAStudio">](https://raw.githubusercontent.com/irreny/irreny/main/qa_engineer_ru.png)
-[<img src="/pythonRU.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/irreny/irreny/main/pythonRU.png)
+<div align="center">
+<img src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=irreny&theme=buefy&hide_border=true&hide_current_streak=true" alt="GitHub Streak Statistics"/>
 
+</div>
+
+Experience & Practice
+<div align="center">
+
+<a href="https://raw.githubusercontent.com/irreny/irreny/main/irina_babkina-snuppy_veb-en.png">
+  <img src="./irina_babkina-snuppy_veb-en.png" width="280" alt="Internship"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://raw.githubusercontent.com/irreny/irreny/main/stepik-certificate-1.png">
+  <img src="./stepik-certificate-1.png" width="280" alt="Stepik Practice"/>
+</a>
+</div>
+
+Education & Certifications
+<div align="center">
+
+<a href="https://raw.githubusercontent.com/irreny/irreny/main/qa_engineer_en.png">
+  <img src="./qa_engineer_en.png" width="280" alt="QA Engineer Certificate"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://raw.githubusercontent.com/irreny/irreny/main/pythonEN.png">
+  <img src="./pythonEN.png" width="280" alt="Python Certificate"/>
+</a>
+
+</div>
