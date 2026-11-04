@@ -27,16 +27,21 @@ Software Quality & Testing
 </div>
 
 ---
+<div align="center">
 
 GitHub Activity
+</div>
 
 <div align="center">
 <img src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=irreny&theme=buefy&hide_border=true&hide_current_streak=true" alt="GitHub Streak Statistics"/>
 
 </div>
 
+<div align="center">
+
 Experience & Practice
 <div align="center">
+</div>
 
 <a href="https://raw.githubusercontent.com/irreny/irreny/main/irina_babkina-snuppy_veb-en.png">
   <img src="./irina_babkina-snuppy_veb-en.png" width="280" alt="Internship"/>
@@ -47,7 +52,10 @@ Experience & Practice
 </a>
 </div>
 
+<div align="center">
+
 Education & Certifications
+</div>
 <div align="center">
 
 <a href="https://raw.githubusercontent.com/irreny/irreny/main/qa_engineer_en.png">
