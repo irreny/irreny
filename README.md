@@ -1,13 +1,7 @@
-Привет ✨ я Ира [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=QA+Engineer)](https://git.io/typing-svg)
+Hello! 🧩 I'm Ira
 ======================
 
-**Обо мне**
-
-- 🔍 Искатель багов | Тестировщик 👨‍💻
-
-- ❤️ Мне нравится разбираться в новых инструментах и участвовать в создании процессов и документации
-
-- 💬 Написать можно в [Telegram](https://t.me/birreny) или на [почту](mailto:birreny@yandex.ru)
+QA Engineer passionate about software quality, continuous learning, exploring new technologies, and developing effective testing processes and documentation
 
 
 <div align="center">
@@ -31,7 +25,7 @@
 </div>
 
 ---
-### :fire: Моя статистика
+### :fire: Statistics 
 <img src="https://github-readme-streak-stats-9m8ugfa77-denvercoder1.vercel.app/?user=irreny&theme=buefy&hide_border=true&hide_current_streak=true">
 
 ## 🌱 Практика и стажировка
