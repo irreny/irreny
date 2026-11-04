@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hello! 🧩 I'm Ira, a QA Engineer
+## Hello! I'm Ira 🧩 QA Engineer
 
 Software Quality & Testing
 
